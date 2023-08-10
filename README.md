@@ -12,7 +12,7 @@ The second query returns the average price, rounded to 2 decimal places for a ho
 
 The third query returns the average price of a home with three bedrooms, three bathrooms, two floors, adn is greater than or equal to 2,000 square feet for each year built, rounded to two decimal places. A picture of the query is below:
 
-  PIC
+  <img width="664" alt="Screenshot 2023-08-10 at 4 22 42 AM" src="https://github.com/jgillas/Home_Sales/assets/125215083/25c9a67d-d9af-4a08-b036-221e326a8dfd">
 
 The fourth query returns the view rating for the average price for homes that are greater than or equal to $350,000, rounded to 2 decimal places. The run time is also shown for this query. A picture of the query is below:
 
