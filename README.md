@@ -20,7 +20,7 @@ The fourth query returns the view rating for the average price for homes that ar
 
 I then created a cache of the temporary "home_sales" table. I ran the fourth query over again with the cached temporary table and computed the run time again. A picture of the query is below: 
 
-  PIC
+  <img width="469" alt="Screenshot 2023-08-10 at 4 25 17 AM" src="https://github.com/jgillas/Home_Sales/assets/125215083/3431b6c9-3ed6-4a3c-a676-ede76825dcde">
 
 I then created a partition of the home sales dataset by the "date_built" field and formatted parquet data to be read. I then created a temporary table of the parquet data. I ran the fourth query agian with the parquet data and computed the run time again. A picture of the query is below: 
 
