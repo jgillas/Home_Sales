@@ -16,7 +16,7 @@ The third query returns the average price of a home with three bedrooms, three b
 
 The fourth query returns the view rating for the average price for homes that are greater than or equal to $350,000, rounded to 2 decimal places. The run time is also shown for this query. A picture of the query is below:
 
-  PIC
+  <img width="467" alt="Screenshot 2023-08-10 at 4 24 10 AM" src="https://github.com/jgillas/Home_Sales/assets/125215083/0f719d3b-6451-4012-9936-bb4337cb7e3a">
 
 I then created a cache of the temporary "home_sales" table. I ran the fourth query over again with the cached temporary table and computed the run time again. A picture of the query is below: 
 
