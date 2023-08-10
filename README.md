@@ -4,7 +4,7 @@ In this challenge I was asked to run multiple queries to determine different dif
 
 The first query returns the average price, rounded to 2 decimal places for a four-bedroom house sold each year. A picture of the query is below: 
 
-  PIC
+  <img width="377" alt="Screenshot 2023-08-10 at 4 20 03 AM" src="https://github.com/jgillas/Home_Sales/assets/125215083/fcd712ae-d312-4bd5-ae3a-8a15cfa0bf93">
 
 The second query returns the average price, rounded to 2 decimal places for a home that has three bedrooms and three bathrooms. A picture of the query is below: 
 
