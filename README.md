@@ -10,7 +10,7 @@ The second query returns the average price, rounded to 2 decimal places for a ho
 
   <img width="371" alt="Screenshot 2023-08-10 at 4 21 16 AM" src="https://github.com/jgillas/Home_Sales/assets/125215083/d8a22898-35a9-4882-9f50-18b6734dc915">
 
-The third query returns the average price of a home with three bedrooms, three bathrooms, two floors, adn is greater than or equal to 2,000 square feet for each year built, rounded to two decimal places. A picture of the query is below:
+The third query returns the average price of a home with three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet for each year built, rounded to two decimal places. A picture of the query is below:
 
   <img width="664" alt="Screenshot 2023-08-10 at 4 22 42 AM" src="https://github.com/jgillas/Home_Sales/assets/125215083/25c9a67d-d9af-4a08-b036-221e326a8dfd">
 
