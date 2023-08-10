@@ -28,4 +28,5 @@ I then created a partition of the home sales dataset by the "date_built" field a
 
 ## Conclusion
 
+In conclusion when looking at the runtimes of the fourth query it is clear that the runtime for the parquet data is the fastest at 0.085020 seconds. The next fastest was the runtime for the original data at 0.143354 seconds. The longest one was the runtime for the cached temporary table/data at 0.167564 seconds. 
 
